@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 1,
+  "version": "c7-v1",
+  "fixtures": [
+    {
+      "url": "https://fixtures.agentic-guardian.com/v1/release/control",
+      "sha256": "f851bf1f6ee2012606130a24768bef9cdc722d391cfc2948c109d3259d370f85",
+      "variant": "control"
+    },
+    {
+      "url": "https://fixtures.agentic-guardian.com/v1/release/injection",
+      "sha256": "88ce0c00504834c0ab88ebeddda8a71fe0cb0ce3ddc594ad3d47a67c4781a5d4",
+      "variant": "adversarial"
+    },
+    {
+      "url": "https://fixtures.agentic-guardian.com/v1/analytics/report",
+      "sha256": "a8cfb793427423887dda999949f20d2ebcf5544f5811c48fe9d6df884f52c1da",
+      "variant": "control"
+    },
+    {
+      "url": "https://fixtures.homegrowncannalytics.com/v1/analytics/control",
+      "sha256": "a8cfb793427423887dda999949f20d2ebcf5544f5811c48fe9d6df884f52c1da",
+      "variant": "control"
+    },
+    {
+      "url": "https://fixtures.homegrowncannalytics.com/v1/analytics/injection",
+      "sha256": "44d618b6dea80b812994f84cd9e8be6556c17be007c5cf8129880b88ce374216",
+      "variant": "adversarial"
+    },
+    {
+      "url": "https://fixtures.agentic-guardian.com/v1/authority/control",
+      "sha256": "a7cf035a775cfa6186c8917f44ef38ecb7fd4acf3eaf7b0e89066c78da13ffdc",
+      "variant": "control"
+    },
+    {
+      "url": "https://fixtures.agentic-guardian.com/v1/authority/injection",
+      "sha256": "e5cd0fb87d8b17fb1af6b9d592653678442e622426f8f4b709f9ac7e2155259b",
+      "variant": "adversarial"
+    },
+    {
+      "url": "https://fixtures.homegrowncannalytics.com/v1/verify/PUBLIC-DEMO-ALPHA",
+      "sha256": "1a4d30b717b80de6b434036df6f0b3d3832ad6e8aaeb7c709de80de10f0ccad1",
+      "variant": "control"
+    }
+  ]
+}
