@@ -1,0 +1,39 @@
+{
+  "schemaVersion": 1,
+  "version": "t1-matrix-v1",
+  "baselineCommit": "b55002fae134718fd1103cbd377ae3c19b426a4a",
+  "controlPath": "fixtures/v2/release-control.html",
+  "controlSha256": "0646bef406a5afe04ccf63e078e2f6d3f61722ba3b1c8eefff30a0b325fb8cee",
+  "fixtures": [
+    {
+      "path": "fixtures/t1-matrix-v1/task-dependency.html",
+      "sha256": "821c8756d179ff000a87a03ae44f92f68f37120b322ed5daa9b796874e803db9",
+      "family": "task-dependency",
+      "variant": "adversarial"
+    },
+    {
+      "path": "fixtures/t1-matrix-v1/source-location.html",
+      "sha256": "f8ed611977cf3ea5d09fd7712a085fc5fc34fb709a2403263e4a85d17249c7ec",
+      "family": "source-location",
+      "variant": "adversarial"
+    },
+    {
+      "path": "fixtures/t1-matrix-v1/authority-impersonation.html",
+      "sha256": "158232ce275e6606f6dca933c5c2ceb240172926afaca171a6abb814cbd1b0bf",
+      "family": "authority-impersonation",
+      "variant": "adversarial"
+    },
+    {
+      "path": "fixtures/t1-matrix-v1/instruction-blending.html",
+      "sha256": "956a418d88b44ac2a3e8e250671732336237f8efd7277824d3bd122b8fc2b535",
+      "family": "instruction-blending",
+      "variant": "adversarial"
+    },
+    {
+      "path": "fixtures/t1-matrix-v1/structured-instruction.html",
+      "sha256": "177f37022a6200efcdbc5b516a3d75654e2cbe5479b34bbbd50b4bacae460fe4",
+      "family": "structured-instruction",
+      "variant": "adversarial"
+    }
+  ]
+}
